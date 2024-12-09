@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BackendChatAppApplication<backend-chat-app>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.chat_app.backend_chat_app.BackendChatAppApplication",
+      "projectName": "backend-chat-app",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
